@@ -1,0 +1,17 @@
+html, body {
+	width: 100vw;
+	height: 100vh;
+	background: #ddddd8;
+	margin: 0;
+	color: #300;
+}
+
+#fs_toggler {
+	width: 100vw;
+	height: 10vh;
+	padding: 40vh 0;
+	line-height: 10vh;
+	font-size: 10vh;
+	text-align: center;
+	cursor: pointer;
+}
