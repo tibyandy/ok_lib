@@ -1,0 +1,17 @@
+html, body {
+	width: 100vw;
+	height: 100vh;
+	background: #888888;
+	margin: 0;
+	color: #300;
+	text-align: center;
+}
+div {
+	width: 100%;
+	padding: 30vmin 0 10vmin;
+	line-height: 10vh;
+	font-size: 10vmin;
+}
+img {
+	height: 20vh;
+}
