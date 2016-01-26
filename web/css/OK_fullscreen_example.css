@@ -1,7 +1,7 @@
 html, body {
 	width: 100vw;
 	height: 100vh;
-	background: #ddddd8;
+	background: #999999;
 	margin: 0;
 	color: #300;
 }
@@ -11,7 +11,9 @@ html, body {
 	height: 10vh;
 	padding: 40vh 0;
 	line-height: 10vh;
-	font-size: 10vh;
+	font-size: 10vmin;
 	text-align: center;
 	cursor: pointer;
+	-webkit-user-select: none;
+	-webkit-tap-highlight-color: transparent;
 }
